@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+# Desafio-Tecnico---Dev-Doutor-Multas-2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Parte 1 - Desafio Teórico
 
-## Available Scripts
+<details>
+    
+1. Qual (ou quais) linguagem de programação você costuma usar?
+    - HTML, CSS, JavaScript, SASS, Boostrap, Wordpress, ReactJS.    
+2. Fale sobre algo que você já tenha desenvolvido durante:
+    1. Seus estudos em programação;
+    - Fiz alguns projetos durante a faculdade com Java como um Gerenciador de estoques.
+    2. Sua carreira como programador.
+    - Durante minha carreira como programador, fiz algumas Landinpages para empresas e também reformulação em site atráves do Wordpress.
+3. Você conhece os princípios da Programação Orientada a Objetos SOLID?
+    1. Se sim, qual o mais importante para você?
+      - SRP 
+4. Você acaba de ser encarregado de um projeto de código legado com problemas de manutenção. Que tipo de coisas você procuraria melhorar para deixar o projeto estável?
+    - Primeiro analisar o código, fazer testes de unidade ve o comportamento nos testes. 
+5. Você gosta de programar? O que te motiva a programar?
+    - Gosto de resolver problemas, sempre gostei de desafios.
+6. Você acaba de ser designado para um projeto em uma nova tecnologia, como você começaria?
+    - Começaria conversando com o time e com os gestores da equipe
+7. Como você reage às pessoas criticando seu código/trabalho?
+    - Sempre respeitar o ponto de vista do outro, e sempre tentar melhorar. 
+8. Qual foi o último livro que você leu?
+    - Pai Rico Pai Pobre
+9. Descreva, com o máximo de detalhes que achar relevante, o mais profundamente possível, o que acontece quando digito "doutormultas.com.br" em um navegador e pressiono "Enter".
+    - Cores chamativas, informação que te deixa interresado pela a empresa, site com rolagem que não acaba muito rapido com muitas informações.
+10. O que você faz quando fica preso a um problema que não consegue resolver?
+    - Tiro uns minutos para pensar um pouco, relaxar com outra coisa, e depois voltar para o problema.
+11. Conte-me sobre alguma vez que você tenha falhado.
+    - Quando estava começando na carreira de Desenvolvedor, tinha alguns erro por conta da experiencia e por não ter muito o conhecimento das linguagens.
+12. Você tem dois computadores e deseja obter dados de um para o outro. Como você poderia fazer isso?
+    - Faria um backup. 
+13. Quando você sabe que seu código está pronto para produção?
+    - Depois que faço os testes tudo e peço para alguem mais experiente que eu da uma olhada.
+14. Você está por conta própria, o que faria se terminasse seu trabalho antes do previsto?
+    - Perguntaria se teria outra demanda a ser feita ou se alguém precisasse de ajuda.
+15. Quais blogs/sites/podcasts sobre programação você consome?
+    - Rocketseat
+    - Origamid
+    - Digital house
+    - Stack Overflow
 
-In the project directory, you can run:
+</details>
 
-### `yarn start`
+# Parte 2 - Desafio Prático
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4 align="center"> 
+	🚀 Desafio-Tecnico---Dev-Doutor-Multas-2022 🚀  🚧 Em construção...  🚧
+</h4>
