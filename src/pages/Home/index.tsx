@@ -20,11 +20,11 @@ export const Home: FC = () => {
     async function loadCarsFromApi() {
       const { data } = await api.get<ICar[]>('/carros/marcas');
 
-      // const parsedData = data.sort((a, b) => {
-      //   return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
-      // });
+      const parsedData = data.sort((a, b) => {
+        return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
+      });
 
-      setCars(data);
+      setCars(parsedData);
     }
 
     const timer = setTimeout(() => loadCarsFromApi(), apiTimeDelay);
@@ -37,11 +37,11 @@ export const Home: FC = () => {
     async function loadTrucksFromApi() {
       const { data } = await api.get<ITruck[]>('/caminhoes/marcas');
 
-      // const parsedData = data.sort((a, b) => {
-      //   return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
-      // });
+      const parsedData = data.sort((a, b) => {
+        return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
+      });
 
-      setTrucks(data);
+      setTrucks(parsedData);
     }
 
     const timer = setTimeout(() => loadTrucksFromApi(), apiTimeDelay);
@@ -54,11 +54,11 @@ export const Home: FC = () => {
     async function loadBikesFromApi() {
       const { data } = await api.get<IBike[]>('/motos/marcas');
 
-      // const parsedData = data.sort((a, b) => {
-      //   return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
-      // });
+      const parsedData = data.sort((a, b) => {
+        return (b.nome.toLowerCase() > a.nome.toLowerCase()) ? 1 : ((a.nome.toLowerCase() > b.nome.toLowerCase()) ? -1 : 0);
+      });
 
-      setBikes(data);
+      setBikes(parsedData);
     }
 
     const timer = setTimeout(() => loadBikesFromApi(), apiTimeDelay);
