@@ -47,7 +47,7 @@
 # Parte 2 - Desafio Prático
 
 <h1 align="center">
-    <img alt="DoutorMultas" title="#DoutorMultas" src="../../../assets/img/DoutorMultas.png"/>
+    <img alt="DoutorMultas" title="#DoutorMultas" src="src/assets/img/DoutorMultas.png"/>
 </h1>
 
 <h4 align="center"> 
