@@ -51,7 +51,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚀 Desafio-Tecnico---Dev-Doutor-Multas-2022 🚀  🚧 Em construção...  🚧
+	🚀 Desafio-Tecnico---Dev-Doutor-Multas-2022 🚀  🚧 Finalizado ...  🚧
 </h4>
 
 ### 💻 Sobre o projeto
